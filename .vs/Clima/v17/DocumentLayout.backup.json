@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Desktop\\Clima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\controllers\\climacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:controllers\\climacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\services\\climaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:services\\climaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\services\\iclima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:services\\iclima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\models\\climamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:models\\climamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\services\\climabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:services\\climabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\dto\\climadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:dto\\climadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|c:\\users\\eduardo\\desktop\\clima\\migrations\\20250225221545_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70DFBDA-ADBB-4A24-9DD0-3782E4794CF5}|Clima.csproj|solutionrelative:migrations\\20250225221545_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClimaService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Services\\ClimaService.cs",
+              "RelativeDocumentMoniker": "Services\\ClimaService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Services\\ClimaService.cs",
+              "RelativeToolTip": "Services\\ClimaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:34:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClimaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Dto\\ClimaDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ClimaDto.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Dto\\ClimaDto.cs",
+              "RelativeToolTip": "Dto\\ClimaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:31:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250225221545_CriarBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Migrations\\20250225221545_CriarBanco.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250225221545_CriarBanco.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Migrations\\20250225221545_CriarBanco.cs",
+              "RelativeToolTip": "Migrations\\20250225221545_CriarBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:15:46.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:55:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClimaController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Controllers\\ClimaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClimaController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Controllers\\ClimaController.cs",
+              "RelativeToolTip": "Controllers\\ClimaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:53:29.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClimaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Models\\ClimaModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClimaModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Models\\ClimaModel.cs",
+              "RelativeToolTip": "Models\\ClimaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:57:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClima.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Services\\IClima.cs",
+              "RelativeDocumentMoniker": "Services\\IClima.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Services\\IClima.cs",
+              "RelativeToolTip": "Services\\IClima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:34:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClimaBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Services\\ClimaBackgroundService.cs",
+              "RelativeDocumentMoniker": "Services\\ClimaBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Services\\ClimaBackgroundService.cs",
+              "RelativeToolTip": "Services\\ClimaBackgroundService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:16:16.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "Models\\ResponseModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:37:17.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T21:54:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Desktop\\Clima\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Desktop\\Clima\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:52:16.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
